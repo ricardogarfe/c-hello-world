@@ -1,0 +1,10 @@
+=============
+hello world
+=============
+
+Compile
+========
+:
+launch:
+
+    *gcc -g -Wall `pkg-config --cflags gtk+-3.0` hello-world.c -o hello-world `pkg-config --libs gtk+-3.0`
