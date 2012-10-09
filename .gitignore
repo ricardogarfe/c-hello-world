@@ -1,2 +1,5 @@
 ## generic files to ignore
 *~
+
+# Compiled c files
+helloworld
